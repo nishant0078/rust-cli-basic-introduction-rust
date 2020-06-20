@@ -1,0 +1,11 @@
+/home/maverick/CLI App Rust Programming /rust-cli-basic-introduction-rust/grrs/target/rls/debug/deps/proc_macro2-c2ad304f8ec9961e.rmeta: /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/maverick/CLI App Rust Programming /rust-cli-basic-introduction-rust/grrs/target/rls/debug/deps/libproc_macro2-c2ad304f8ec9961e.rlib: /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/maverick/CLI App Rust Programming /rust-cli-basic-introduction-rust/grrs/target/rls/debug/deps/proc_macro2-c2ad304f8ec9961e.d: /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs:

@@ -1,0 +1,10 @@
+/home/maverick/CLI App Rust Programming /rust-cli-basic-introduction-rust/grrs/target/debug/deps/libstructopt_derive-6f91395c07b23bc2.so: /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/lib.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/attrs.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/doc_comments.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/parse.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/spanned.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/ty.rs
+
+/home/maverick/CLI App Rust Programming /rust-cli-basic-introduction-rust/grrs/target/debug/deps/structopt_derive-6f91395c07b23bc2.d: /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/lib.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/attrs.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/doc_comments.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/parse.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/spanned.rs /home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/ty.rs
+
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/lib.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/attrs.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/doc_comments.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/parse.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/spanned.rs:
+/home/maverick/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.8/src/ty.rs:
